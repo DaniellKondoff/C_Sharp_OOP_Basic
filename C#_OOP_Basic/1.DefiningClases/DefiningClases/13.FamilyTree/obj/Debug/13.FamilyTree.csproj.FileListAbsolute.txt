@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\13.FamilyTree\bin\Debug\13.FamilyTree.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\13.FamilyTree\obj\Debug\13.FamilyTree.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\13.FamilyTree\bin\Debug\13.FamilyTree.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\13.FamilyTree\bin\Debug\13.FamilyTree.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\13.FamilyTree\obj\Debug\13.FamilyTree.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\13.FamilyTree\obj\Debug\13.FamilyTree.pdb

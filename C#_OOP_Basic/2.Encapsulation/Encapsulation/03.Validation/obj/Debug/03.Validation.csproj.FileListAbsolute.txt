@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\03.Validation\bin\Debug\Person.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\03.Validation\bin\Debug\Person.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\03.Validation\bin\Debug\Person.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\03.Validation\obj\Debug\Person.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\03.Validation\obj\Debug\Person.pdb

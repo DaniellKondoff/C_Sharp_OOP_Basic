@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\5.ExamPreparation\NFS\NFS\bin\Debug\NFS.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\5.ExamPreparation\NFS\NFS\bin\Debug\NFS.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\5.ExamPreparation\NFS\NFS\bin\Debug\NFS.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\5.ExamPreparation\NFS\NFS\obj\Debug\NFS.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\5.ExamPreparation\NFS\NFS\obj\Debug\NFS.pdb

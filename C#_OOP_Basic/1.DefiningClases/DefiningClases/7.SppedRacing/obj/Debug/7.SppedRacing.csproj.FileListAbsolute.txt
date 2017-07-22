@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\7.SppedRacing\bin\Debug\7.SppedRacing.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\7.SppedRacing\bin\Debug\7.SppedRacing.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\7.SppedRacing\bin\Debug\7.SppedRacing.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\7.SppedRacing\obj\Debug\7.SppedRacing.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\7.SppedRacing\obj\Debug\7.SppedRacing.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\7.SppedRacing\obj\Debug\7.SppedRacing.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\1.ClassPerson\bin\Debug\1.ClassPerson.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\1.ClassPerson\bin\Debug\1.ClassPerson.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\1.ClassPerson\bin\Debug\1.ClassPerson.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\1.ClassPerson\obj\Debug\1.ClassPerson.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\1.ClassPerson\obj\Debug\1.ClassPerson.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\1.ClassPerson\obj\Debug\1.ClassPerson.pdb

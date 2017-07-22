@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\1.ClassBox\bin\Debug\1.ClassBox.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\1.ClassBox\bin\Debug\1.ClassBox.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\1.ClassBox\bin\Debug\1.ClassBox.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\1.ClassBox\obj\Debug\1.ClassBox.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\1.ClassBox\obj\Debug\1.ClassBox.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\1.ClassBox\obj\Debug\1.ClassBox.pdb

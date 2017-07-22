@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\4.ShoppingSpree\bin\Debug\4.ShoppingSpree.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\4.ShoppingSpree\bin\Debug\4.ShoppingSpree.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\4.ShoppingSpree\bin\Debug\4.ShoppingSpree.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\4.ShoppingSpree\obj\Debug\4.ShoppingSpree.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\4.ShoppingSpree\obj\Debug\4.ShoppingSpree.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\4.ShoppingSpree\obj\Debug\4.ShoppingSpree.pdb

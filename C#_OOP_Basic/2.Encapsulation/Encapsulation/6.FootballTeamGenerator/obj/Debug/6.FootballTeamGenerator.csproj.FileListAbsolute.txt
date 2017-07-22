@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\6.FootballTeamGenerator\bin\Debug\6.FootballTeamGenerator.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\6.FootballTeamGenerator\bin\Debug\6.FootballTeamGenerator.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\6.FootballTeamGenerator\bin\Debug\6.FootballTeamGenerator.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\6.FootballTeamGenerator\obj\Debug\6.FootballTeamGenerator.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\6.FootballTeamGenerator\obj\Debug\6.FootballTeamGenerator.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\6.FootballTeamGenerator\obj\Debug\6.FootballTeamGenerator.pdb

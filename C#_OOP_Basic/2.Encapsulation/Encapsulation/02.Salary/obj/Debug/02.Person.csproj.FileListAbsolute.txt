@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\02.Salary\bin\Debug\Person.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\02.Salary\bin\Debug\Person.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\02.Salary\bin\Debug\Person.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\02.Salary\obj\Debug\02.Person.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\02.Salary\obj\Debug\Person.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\2.Encapsulation\Encapsulation\02.Salary\obj\Debug\Person.pdb

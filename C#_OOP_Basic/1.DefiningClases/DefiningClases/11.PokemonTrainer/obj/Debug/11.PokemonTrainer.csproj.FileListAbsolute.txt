@@ -1,0 +1,6 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\11.PokemonTrainer\bin\Debug\11.PokemonTrainer.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.csprojResolveAssemblyReference.cache
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\11.PokemonTrainer\obj\Debug\11.PokemonTrainer.pdb

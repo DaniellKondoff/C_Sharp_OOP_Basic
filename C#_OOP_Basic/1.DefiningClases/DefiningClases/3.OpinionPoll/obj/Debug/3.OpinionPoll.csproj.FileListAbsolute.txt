@@ -1,0 +1,5 @@
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\3.OpinionPoll\bin\Debug\3.OpinionPoll.exe.config
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\3.OpinionPoll\bin\Debug\3.OpinionPoll.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\3.OpinionPoll\bin\Debug\3.OpinionPoll.pdb
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\3.OpinionPoll\obj\Debug\3.OpinionPoll.exe
+D:\VisualStudio2015\Projects\C#_OOP_Basic\1.DefiningClases\DefiningClases\3.OpinionPoll\obj\Debug\3.OpinionPoll.pdb
